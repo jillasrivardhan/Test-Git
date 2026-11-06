@@ -2,7 +2,7 @@
 
 - Testing some of the git commands
 - stay consistent
-- Hi fro git
+- Hi from git
 - Git and Github was introduced by Linus Torvalds
 
 
